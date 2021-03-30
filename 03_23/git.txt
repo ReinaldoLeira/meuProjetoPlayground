@@ -1,0 +1,18 @@
+colocar o nome do github
+git config user.name "meu-usuario"
+git config --global user.name "meu-usuario" //faz com que todos os projetos neste pc peguem este usuario
+
+colocar o email do github
+git config user.email "email"
+git config --global user.email "email" //todos os projeetos pegam este email 
+
+para verificar em ambos basta colocar o comando sem o usuario ou o email
+
+
+git remote add origin https://github.com/ReinaldoLeira/meuProjetoPlayground.git
+para conectar com o github o repositorio local
+
+git remote -v 
+verificar se esta conectado no repositorio
+
+git commit -m "mensagemDoCommit"
