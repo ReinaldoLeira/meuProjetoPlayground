@@ -22,3 +22,11 @@ verifica se tem modificações nos arquivos
 
 git add nomeDoArquivo
 Adicionar arquivos novos ou atualizar arquivos ja existentes
+
+git add .
+adicionar todos os arquivos presentes no repositorio
+
+git push origin main //envia as modificações ao repositorio remoto
+
+git push //para adicionar todos os arquivos ao repositorio remoto
+
