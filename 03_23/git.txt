@@ -26,7 +26,9 @@ Adicionar arquivos novos ou atualizar arquivos ja existentes
 git add .
 adicionar todos os arquivos presentes no repositorio
 
-git push origin main //envia as modificações ao repositorio remoto
+git push origin master //envia as modificações ao repositorio remoto
 
 git push //para adicionar todos os arquivos ao repositorio remoto
 
+git clone git@github.com:meunome/atquivo-git.git //clonar os arquivos do repositório especificado
+git pull origin master //vai baixar e atualizar apenas os arquivos que sofreram atualização
