@@ -16,3 +16,9 @@ git remote -v
 verificar se esta conectado no repositorio
 
 git commit -m "mensagemDoCommit"
+
+git status 
+verifica se tem modificações nos arquivos
+
+git add nomeDoArquivo
+Adicionar arquivos novos ou atualizar arquivos ja existentes
