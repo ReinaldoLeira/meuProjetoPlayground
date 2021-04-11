@@ -1,0 +1,6 @@
+text-transform: uppercase => deixar com letras maiusculas
+text-transform: lowercase => deixar minuscula
+
+background-size: 100%  => colocar o tamanho do background
+
+background-size: cover  => cobre toda a tela com o background
