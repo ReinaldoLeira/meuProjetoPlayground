@@ -1,0 +1,9 @@
+Estrutura basica de html
+
+<span> equivale a um div, mas não ocupa a linha inteira
+display: none =>  não exibe aquela div/section/etc
+
+section.noticias => cria uma section com classe noticias
+
+<meta charset="utf-8" /> => padrão para caracteres com acentos em pt-br
+
