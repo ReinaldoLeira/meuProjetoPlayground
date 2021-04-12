@@ -1,0 +1,3 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  => sempre precisa ter para um site responsivo
+
+max-width: 100%  => indica que o objeto sempre terá no maximo o tamanho de 100% da tela
